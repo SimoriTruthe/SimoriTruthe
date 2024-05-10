@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Rich! <br/><a href="https://www.linkedin.com/in/richardricksimmons/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Rich! <br/><a href="https://www.linkedin.com/in/richardricksimmons/">Cybersecurity Analyst</a> </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -14,7 +14,7 @@
 [linkedin]: https://linkedin.com/in/richardricksimmons
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SimoriTruthe/SimoriTruthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
